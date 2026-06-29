@@ -102,10 +102,7 @@ node server.js
 ![](https://github.com/Saurabh9122-tech/PRODIGY_FS_03/blob/main/Screenshot%202025-06-29%20124743.png)  
 ---
 # **🙋‍♂️ About Me**
-Hi! I’m Saurabh Kumar, a web developer intern at Prodigy InfoTech.
+Hi! I’m Swapnil Chaudhary, a web developer intern at Prodigy InfoTech.
 This project is part of my learning journey — building real-world solutions one step at a time.
 
-### **🔗 LinkedIn**
-  [saurabh kumar](www.linkedin.com/in/saurabh-kumar-9999s)   
-# **🔒 License**
-[MIT](https://github.com/Saurabh9122-tech/PRODIGY_FS_03/blob/main/LICENSE)
+
