@@ -4,12 +4,7 @@ Welcome to **Local Store** – a clean, simple, and user-friendly local e-commer
 
 ---
 
-## 🎬 Demo Video  
 
-Check out the working demo of this project in action      
-[![Watch Demo](https://img.youtube.com/vi/NP435pW361M/0.jpg)](https://youtu.be/NP435pW361M)  
-
-📺 [Click here to watch on YouTube »](https://youtu.be/NP435pW361M)  
 
 ---
 
@@ -78,7 +73,7 @@ PRODIGY_FS_03/
 ## 🚀 How to Run Locally  
 
 ### 1. Clone this Repo  
-git clone [CLICK HERE](https://github.com/Saurabh9122-tech/PRODIGY_FS_03.git)    
+ 
 cd PRODIGY_FS_03  
 ### **2. Install Backend Dependencies**        
 cd backend  
